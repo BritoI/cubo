@@ -1,30 +1,21 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-<meta charset="UTF-8">
-<title>laura</title>
+
  
-</head>
-<body>
-<h1 style="color: aqua;">montagem do cubo</h1>
-<p>
-<h5> Turma Dev 1A, grupo da primeira fileira</h2>
+# COMO NOS MONTAMOS O CUBO?
+
+
+### Para montar foi preciso paciência e tecnica:
+
+ #### NO 03/05 MONTAMOS UM CUBO DE TRÊS PEÇAS.
  
-    
-<p>
-<h4>COMO NOS MONTAMOS O CUBO?</h4>
-</p>
-</P>
-<h4>Para montar foi preciso paciência e tecnica:</H4>
-</p>
-<h5>NO 03/05 MONTAMOS UM CUBO DE TRÊS PEÇAS.
-</p>FOMOS NA MESA DO PROFESSOR E ESCOLHEMOS AS PEÇAS DO NOSSO CUBO , ENTRETANTO COMEÇAMOS A MONTAGEM DO NOSSO CUBO FIZEMOS DE TODA MANEIRA PARA ENCAIXAR ATE ENTÃO DEPOIS DE MUITO TEMPO CONSEGUIMOS MONTA-LO COM SUCESSO ..</h5>
+##### -Para montar o cubo precisa unir as três pontas
+##### - Analise as três pontas e as agrupe
+##### -Juntando todas as peças de uma vez 
+#### - E assim você ira montar seu cubo..
+
    
 ![alt text](imagens/foto1.jpg)
  
  
  
  
- 
-<body>
-</html>
+ >
